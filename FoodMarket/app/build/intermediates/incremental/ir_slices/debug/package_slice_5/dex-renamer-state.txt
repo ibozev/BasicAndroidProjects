@@ -1,0 +1,4 @@
+#Wed Jun 19 16:45:47 EEST 2019
+base.0=C\:\\Users\\bozev21.DESKTOP-PI2PPL1\\AndroidStudioProjects\\FoodMarket\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
